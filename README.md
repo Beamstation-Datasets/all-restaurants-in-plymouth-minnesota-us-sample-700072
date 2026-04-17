@@ -9,9 +9,9 @@
 | Dataset ID | `700072` |
 | Location | Plymouth |
 | Category | Restaurants |
-| Full dataset size | 82 records |
-| Free sample size | 8 records (9.76%) |
-| Last export | 2026-03-31T14:48:12.442575+00:00 |
+| Full dataset size | 86 records |
+| Free sample size | 8 records (9.3%) |
+| Last export | 2026-04-14T15:21:55.724116+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-plymouth-minnesota-us-sample-700072/releases/download/sample-latest/beamstation_700072_restaurants-us-mn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
