@@ -1,6 +1,6 @@
 # All Restaurants in Plymouth, Minnesota, US
 
-> Free BeamStation sample export with 8 rows and masked direct-contact fields.
+> Free BeamStation sample export with 10 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `700072` |
 | Location | Plymouth |
 | Category | Restaurants |
-| Full dataset size | 85 records |
-| Free sample size | 8 records (9.41%) |
-| Last export | 2026-04-21T16:38:57.913671+00:00 |
+| Full dataset size | 108 records |
+| Free sample size | 10 records (9.26%) |
+| Last export | 2026-04-28T17:38:33.786819+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-plymouth-minnesota-us-sample-700072/releases/download/sample-latest/beamstation_700072_restaurants-us-mn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
