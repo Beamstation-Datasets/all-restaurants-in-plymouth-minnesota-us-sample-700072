@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f82533a5-c4a2-42a2-aafd-4f6be408e045",
+  "export_job_id": "cf1192b3-28b8-4c62-8698-a767a9c05c93",
   "id_short": 700072,
-  "published_at": "2026-04-21T19:43:04Z",
+  "published_at": "2026-04-28T19:08:08Z",
   "repo_name": "all-restaurants-in-plymouth-minnesota-us-sample-700072",
   "sample_asset_name": "beamstation_700072_restaurants-us-mn_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/700072/beamstation_700072_restaurants-us-mn_SAMPLE_DIST.csv",
-  "sample_records": 8,
-  "sample_sha256": "85cce82c151935b89dedcaaaaefb5db8d3eddd773fa00ec7173560bfb386b026",
-  "sample_size_bytes": 46980,
-  "total_records": 85
+  "sample_records": 10,
+  "sample_sha256": "62bee7c78b9152678e557623878ba61c34fdef63c8664ab2516b53ebf2836016",
+  "sample_size_bytes": 50827,
+  "total_records": 108
 }
